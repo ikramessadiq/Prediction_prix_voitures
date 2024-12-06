@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error, r2_score # type: ignore
 
 #C:/Users/ikram/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/ikram/Desktop/ISBID 2/stage/task1.py"
 
-data_train = pd.read_csv(r'C:\Users\ikram\Desktop\tasks\house\train.csv')  
+ 
 data_test = pd.read_csv(r'C:\Users\ikram\Desktop\tasks\house\test.csv')
 
 print(data_train.head())
